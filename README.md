@@ -607,7 +607,7 @@ npm run build
 This project is created for educational purposes as part of a Node.js Technical Assignment.
 
 ## 👨‍💻 Author
-
+-Abdul Khalique Raza
 Created as part of Node.js + React Full-Stack Development Assignment
 
 ---
